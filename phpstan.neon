@@ -1,0 +1,12 @@
+parameters:
+    level: 5 # Уровень строгости (0–9, начните с 5 для Laravel)
+    paths:
+        - app/ # Анализировать папку app
+        - tests/ # Опционально, анализировать тесты
+    laravel:
+        enabled: true # Включить поддержку Laravel
+    excludePaths:
+        - app/Console/ # Исключить консольные команды, если не нужны
+        - app/Http/Middleware/ # Исключить middleware, если нужно
+    ignoreErrors:
+        - '#Access to an undefined property#' # Игнорировать ошибки для магических свойств

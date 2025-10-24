@@ -1,0 +1,31 @@
+[33mee568c6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: Init Project
+[33m2d77036[m HEAD@{1}: reset: moving to 2d77036
+[33m82da248[m HEAD@{2}: commit: Init project
+[33m2d77036[m HEAD@{3}: reset: moving to 2d77036
+[33mb1caf05[m HEAD@{4}: rebase (finish): returning to refs/heads/main
+[33mb1caf05[m HEAD@{5}: rebase (start): checkout 2d77036
+[33mb1caf05[m HEAD@{6}: commit: Refactoring
+[33m2d77036[m HEAD@{7}: Branch: renamed refs/heads/temp-branch to refs/heads/main
+[33m2d77036[m HEAD@{9}: commit (initial): Init project
+[33m648a307[m[33m ([m[1;32mbackup-main[m[33m)[m HEAD@{10}: rebase (finish): returning to refs/heads/main
+[33m648a307[m[33m ([m[1;32mbackup-main[m[33m)[m HEAD@{11}: rebase (reword): Init project
+[33mabc9a10[m HEAD@{12}: rebase: fast-forward
+[33mb00df2a[m HEAD@{13}: rebase: fast-forward
+[33m7caf1ea[m HEAD@{14}: rebase (start): checkout 7caf1ead60363706aba365b1d0a51e6479fa9ae4
+[33mabc9a10[m HEAD@{15}: commit: Init project
+[33mb00df2a[m HEAD@{16}: reset: moving to b00df2a
+[33m7515658[m HEAD@{17}: commit: Init project
+[33mb00df2a[m HEAD@{18}: reset: moving to b00df2a
+[33m7c7f221[m HEAD@{19}: commit: Created feature tests for Auth
+[33me0b668d[m HEAD@{20}: commit: Created feature tests for Project
+[33m8a121ab[m HEAD@{21}: pull origin main: Merge made by the 'recursive' strategy.
+[33mc699916[m HEAD@{22}: commit: Created feature tests for Project
+[33mb00df2a[m HEAD@{23}: reset: moving to b00df2aef97ea23336fbf7f0a17767257e1ac618
+[33me61df09[m HEAD@{24}: checkout: moving from main to main
+[33me61df09[m HEAD@{25}: reset: moving to e61df096151d4120c7fd8485f9ebca42f8a7ae04
+[33m2495184[m HEAD@{26}: reset: moving to HEAD
+[33m2495184[m HEAD@{27}: commit: Initial commit
+[33m5f8a0ac[m HEAD@{28}: checkout: moving from main to main
+[33m5f8a0ac[m HEAD@{29}: commit: Testing
+[33me8a147d[m HEAD@{30}: commit: Minor fixes
+[33m4298338[m HEAD@{31}: commit (initial): test project
